@@ -1,1 +1,2 @@
-# edukernel
+cd src
+make clean;make
